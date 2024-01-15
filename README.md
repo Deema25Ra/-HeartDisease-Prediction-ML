@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project focuses on predicting heart disease using machine learning on two distinct datasets: "Personal Key Indicators of Heart Disease" and "Heart Disease Health Indicators."
-
+This project focuses on predicting the likelihood of a person having heart disease using machine learning on two distinct datasets: "Personal Key Indicators of Heart Disease" and "Heart Disease Health Indicators".
 ## Models
 
 1. **Random Forest (RF):** Demonstrated high accuracy and recall.
